@@ -1,0 +1,1039 @@
+const resObj = [
+    {
+        "info": {
+            "id": "10583",
+            "name": "Pizza Hut",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/15/42eb0361-ebd7-4570-affe-a6894ea0d2ee_10583.JPG",
+            "locality": "Coles Road",
+            "areaName": "Frazer Town",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Pizzas"
+            ],
+            "avgRating": 4.2,
+            "parentId": "721",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "20K+",
+            "sla": {
+                "deliveryTime": 42,
+                "lastMileTravel": 3.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "40-45 mins",
+                "lastMileTravelString": "3.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 03:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.4",
+                    "ratingCount": "3.0K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/pizza-hut-coles-road-frazer-town-rest10583",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "657644",
+            "name": "Barbeque Nation",
+            "cloudinaryImageId": "a536e38a8033ed9c86f46ee0b3bf849a",
+            "locality": "GLOBAL MALLS",
+            "areaName": "RAJAJI NAGAR",
+            "costForTwo": "₹600 for two",
+            "cuisines": [
+                "North Indian",
+                "Barbecue",
+                "Kebabs",
+                "Biryani",
+                "Street Food",
+                "Snacks"
+            ],
+            "avgRating": 3.8,
+            "parentId": "2438",
+            "avgRatingString": "3.8",
+            "totalRatingsString": "785",
+            "sla": {
+                "deliveryTime": 42,
+                "lastMileTravel": 4.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "40-50 mins",
+                "lastMileTravelString": "4.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 23:30:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "70% OFF",
+                "subHeader": "UPTO ₹130"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/barbeque-nation-global-malls-rajaji-nagar-rest657644",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "767216",
+            "name": "Boba Bhai - Bubble Tea & Korean Street Food",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/11/7/37f756bb-d9c0-4884-a2e3-0f595afe9b31_767216.jpg",
+            "locality": "Rajajinagar",
+            "areaName": "Rajajinagar",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+                "Bubble Tea",
+                "Burger",
+                "Korean",
+                "Beverages",
+                "Fast Food",
+                "Juice and shake"
+            ],
+            "avgRating": 4.3,
+            "parentId": "361235",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "1.2K+",
+            "sla": {
+                "deliveryTime": 39,
+                "lastMileTravel": 4.8,
+                "serviceability": "SERVICEABLE",
+                "slaString": "35-40 mins",
+                "lastMileTravelString": "4.8 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "60% OFF",
+                "subHeader": "UPTO ₹120"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.3",
+                    "ratingCount": "138"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/boba-bhai-bubble-tea-and-korean-street-food-rajajinagar-rest767216",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "449338",
+            "name": "Burger King",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/18/7b586a41-22f7-4876-aa07-8f57f7998afe_449338.jpg",
+            "locality": "Global Mall",
+            "areaName": "Rajajinagar",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "Burgers",
+                "American"
+            ],
+            "avgRating": 4.2,
+            "parentId": "166",
+            "avgRatingString": "4.2",
+            "totalRatingsString": "2.5K+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 3.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-40 mins",
+                "lastMileTravelString": "3.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 23:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹59"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/burger-king-global-mall-rajajinagar-rest449338",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "347868",
+            "name": "KFC",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/1/bcc63cd1-59e0-47f9-bf9f-feffad2c7617_347868.JPG",
+            "locality": "Cunnigham road",
+            "areaName": "Central Bangalore",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Burgers",
+                "Fast Food",
+                "Rolls & Wraps"
+            ],
+            "avgRating": 4.1,
+            "parentId": "547",
+            "avgRatingString": "4.1",
+            "totalRatingsString": "7.2K+",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 2.3,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.3 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 01:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.pngImage preview",
+                        "description": "Top-rated for Bolt, based on user votes."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Top-rated for Bolt, based on user votes.",
+                                    "imageId": "brand_cards/Badges%202026/40_Best%20in%20Bolt2026.pngImage preview",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "50% OFF",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/kfc-cunnigham-road-central-bangalore-rest347868",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "237668",
+            "name": "McDonald's",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/18/619c5764-b852-44ad-b535-ce40a5d52f23_237668.JPG",
+            "locality": "Commercial Street",
+            "areaName": "Shivajinagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+                "Burgers",
+                "Beverages",
+                "Cafe",
+                "Desserts"
+            ],
+            "avgRating": 4.4,
+            "parentId": "630",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "7.4K+",
+            "sla": {
+                "deliveryTime": 31,
+                "lastMileTravel": 2.5,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "2.5 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 23:45:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹125 OFF",
+                "subHeader": "ABOVE ₹549",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/mcdonalds-commercial-street-shivajinagar-rest237668",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "442110",
+            "name": "Taco Bell",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/7/10/f6aa9ec1-29c1-492c-a9de-abcdb0aeb8b9_442110.JPG",
+            "locality": "Vatal Nagaraj Road",
+            "areaName": "Magadi Road",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+                "Mexican",
+                "Fast Food",
+                "Snacks"
+            ],
+            "avgRating": 4.3,
+            "parentId": "1557",
+            "avgRatingString": "4.3",
+            "totalRatingsString": "2.2K+",
+            "sla": {
+                "deliveryTime": 32,
+                "lastMileTravel": 3.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-35 mins",
+                "lastMileTravelString": "3.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 23:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "brand_cards/Badges%202026/51_Best%20in%20Global%20Flavours2026.pngImage preview",
+                        "description": "Top-rated for Global Flavours, based on user votes."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Top-rated for Global Flavours, based on user votes.",
+                                    "imageId": "brand_cards/Badges%202026/51_Best%20in%20Global%20Flavours2026.pngImage preview",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "70% OFF",
+                "subHeader": "UPTO ₹130"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "3.8",
+                    "ratingCount": "141"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/taco-bell-vatal-nagaraj-road-magadi-road-rest442110",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "672074",
+            "name": "Subway",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2025/6/12/8f9a90a5-4f89-4234-b4ed-a840580dbe52_672074.jpg",
+            "locality": "Ashok Nagar",
+            "areaName": "Sobha Mall",
+            "costForTwo": "₹350 for two",
+            "cuisines": [
+                "sandwich",
+                "Salads",
+                "wrap",
+                "Healthy Food"
+            ],
+            "avgRating": 4.4,
+            "parentId": "2",
+            "avgRatingString": "4.4",
+            "totalRatingsString": "2.7K+",
+            "sla": {
+                "deliveryTime": 33,
+                "lastMileTravel": 2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "30-40 mins",
+                "lastMileTravelString": "2.0 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 03:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.pngImage preview",
+                        "description": "Meals with high protein, low calorie and no added sugar"
+                    },
+                    {
+                        "imageId": "brand_cards/Badges%202026/79_Best%20in%20Subs%20&%20Sandwiches2026.pngImage preview",
+                        "description": "Top-rated for Subs & Sandwiches, based on user votes."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Meals with high protein, low calorie and no added sugar",
+                                    "imageId": "Health%20Hub/RX%20BADGE/BADGE2.pngImage preview",
+                                    "theme": ""
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Top-rated for Subs & Sandwiches, based on user votes.",
+                                    "imageId": "brand_cards/Badges%202026/79_Best%20in%20Subs%20&%20Sandwiches2026.pngImage preview",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "₹150 OFF",
+                "subHeader": "ABOVE ₹299",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/subway-ashok-nagar-sobha-mall-rest672074",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "570511",
+            "name": "Bakingo",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/7/17/7ac85738-16f0-47a6-bdfd-1a5c26423cb6_570511.JPG",
+            "locality": "Bangalore South",
+            "areaName": "Vasanth Nagar",
+            "costForTwo": "₹299 for two",
+            "cuisines": [
+                "Bakery",
+                "Desserts",
+                "Beverages",
+                "Snacks"
+            ],
+            "avgRating": 4.6,
+            "parentId": "3818",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "6.4K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 2.7,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.7 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 01:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹69"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/bakingo-south-vasanth-nagar-rest570511",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "187384",
+            "name": "Blue Tokai Coffee Roasters",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/2/24/6caf096b-b568-4441-9562-73edd546bb57_187384.JPG",
+            "locality": "Wework prestige central",
+            "areaName": "Shivaji Nagar",
+            "costForTwo": "₹600 for two",
+            "cuisines": [
+                "Cafe",
+                "Coffee",
+                "Beverages"
+            ],
+            "avgRating": 4.6,
+            "parentId": "2682",
+            "avgRatingString": "4.6",
+            "totalRatingsString": "1.5K+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 20:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "Health%20Hub/RX%20BADGE/BADGE2.pngImage preview",
+                        "description": "Meals with high protein, low calorie and no added sugar"
+                    },
+                    {
+                        "imageId": "newg.pngImage preview",
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Meals with high protein, low calorie and no added sugar",
+                                    "imageId": "Health%20Hub/RX%20BADGE/BADGE2.pngImage preview",
+                                    "theme": ""
+                                }
+                            },
+                            {
+                                "attributes": {
+                                    "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                                    "imageId": "newg.pngImage preview",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "ITEMS",
+                "subHeader": "AT ₹99"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.4",
+                    "ratingCount": "298"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/blue-tokai-coffee-roasters-wework-prestige-central-shivaji-nagar-rest187384",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "51835",
+            "name": "Aubree",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2026/6/23/ea0e311d-a29f-4044-8caa-99f646046d4d_51835.JPG",
+            "locality": "Shivaji Nagar",
+            "areaName": "Shivaji Nagar",
+            "costForTwo": "₹700 for two",
+            "cuisines": [
+                "Desserts",
+                "Bakery"
+            ],
+            "avgRating": 4.7,
+            "parentId": "3807",
+            "avgRatingString": "4.7",
+            "totalRatingsString": "2.3K+",
+            "sla": {
+                "deliveryTime": 26,
+                "lastMileTravel": 1.9,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "1.9 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 00:00:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "newg.pngImage preview",
+                        "description": "Premium gourmet restaurant offering an elevated, high-quality food experience."
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "D",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "Premium gourmet restaurant offering an elevated, high-quality food experience.",
+                                    "imageId": "newg.pngImage preview",
+                                    "theme": ""
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "10% OFF",
+                "subHeader": "ABOVE ₹2500",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.7",
+                    "ratingCount": "1.2K+"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/aubree-shivaji-nagar-rest51835",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "435405",
+            "name": "Chaayos Chai+Snacks=Relax",
+            "cloudinaryImageId": "RX_THUMBNAIL/IMAGES/VENDOR/2024/4/17/dfbcecfc-b380-4648-930a-b9b56b21e781_435405.JPG",
+            "locality": "Cunningham Road",
+            "areaName": "Central Bangalore",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+                "Beverages",
+                "Chaat",
+                "Bakery",
+                "Snacks",
+                "Street Food",
+                "healthy",
+                "Home Food",
+                "Maharashtrian",
+                "Italian",
+                "Desserts"
+            ],
+            "avgRating": 4.5,
+            "parentId": "281782",
+            "avgRatingString": "4.5",
+            "totalRatingsString": "3.4K+",
+            "sla": {
+                "deliveryTime": 30,
+                "lastMileTravel": 2.2,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.2 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-18 00:00:00",
+                "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {},
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {
+                "header": "51% OFF",
+                "discountTag": "FLAT DEAL"
+            },
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "4.1",
+                    "ratingCount": "514"
+                },
+                "source": "GOOGLE",
+                "sourceIconImageId": "v1704440323/google_ratings/rating_google_tag"
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/chaayos-chai-snacks-relax-cunningham-road-central-bangalore-rest435405",
+            "type": "WEBLINK"
+        }
+    },
+    {
+        "info": {
+            "id": "53607",
+            "name": "Sweet Chariot",
+            "cloudinaryImageId": "zld92burraevhjwphfgc",
+            "locality": "Cunnigham road",
+            "areaName": "Central Bangalore",
+            "costForTwo": "₹500 for two",
+            "cuisines": [
+                "Desserts"
+            ],
+            "avgRating": 4.8,
+            "parentId": "912",
+            "avgRatingString": "4.8",
+            "totalRatingsString": "3.2K+",
+            "sla": {
+                "deliveryTime": 28,
+                "lastMileTravel": 2.4,
+                "serviceability": "SERVICEABLE",
+                "slaString": "25-30 mins",
+                "lastMileTravelString": "2.4 km",
+                "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+                "nextCloseTime": "2026-08-17 21:30:00",
+                "opened": true
+            },
+            "badges": {
+                "imageBadges": [
+                    {
+                        "imageId": "android/static-assets/icons/big_rx.pngImage preview",
+                        "description": "bolt!"
+                    }
+                ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+                "entityBadges": {
+                    "imageBased": {
+                        "badgeObject": [
+                            {
+                                "attributes": {
+                                    "description": "bolt!",
+                                    "imageId": "android/static-assets/icons/big_rx.pngImage preview"
+                                }
+                            }
+                        ]
+                    },
+                    "textBased": {},
+                    "textExtendedBadges": {}
+                }
+            },
+            "aggregatedDiscountInfoV3": {},
+            "differentiatedUi": {
+                "displayType": "ADS_UI_DISPLAY_TYPE_ENUM_DEFAULT",
+                "differentiatedUiMediaDetails": {
+                    "lottie": {},
+                    "video": {}
+                }
+            },
+            "reviewsSummary": {},
+            "displayType": "RESTAURANT_DISPLAY_TYPE_DEFAULT",
+            "restaurantOfferPresentationInfo": {},
+            "externalRatings": {
+                "aggregatedRating": {
+                    "rating": "--"
+                }
+            },
+            "ratingsDisplayPreference": "RATINGS_DISPLAY_PREFERENCE_SHOW_SWIGGY"
+        },
+        "analytics": {
+            "context": "seo-data-d0ceaa8f-fcb7-49dc-b433-215f59089e86"
+        },
+        "cta": {
+            "link": "https://www.swiggy.com/city/bangalore/sweet-chariot-cunnigham-road-central-bangalore-rest53607",
+            "type": "WEBLINK"
+        }
+    },
+]
+
+export default resObj;

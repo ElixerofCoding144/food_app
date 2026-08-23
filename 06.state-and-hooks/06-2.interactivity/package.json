@@ -1,0 +1,27 @@
+{
+  "name": "food_app",
+  "version": "1.0.0",
+  "description": "A Swiggy-inspired food ordering application built to explore and strengthen core ReactJS concepts through hands-on development.",
+  "homepage": "https://github.com/ElixerofCoding144/food_app#readme",
+  "bugs": {
+    "url": "https://github.com/ElixerofCoding144/food_app/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ElixerofCoding144/food_app.git"
+  },
+  "license": "ISC",
+  "author": "Antara Chakrabarti",
+  "scripts": {
+    "start": "parcel index.html",
+    "build": "parcel build index.html",
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  },
+  "dependencies": {
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8"
+  }
+}
