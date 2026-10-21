@@ -1,0 +1,192 @@
+body {
+    margin: 0;
+    background-color: #fafaf8;
+    color: #282c3f;
+}
+/* Header */
+.header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #ffffff;
+    border-bottom: 1px solid #e9e9eb;
+}
+
+.logo {
+    padding: 20px;
+    width: 50px;
+}
+
+.nav-items {
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.nav-items > ul {
+    font-size: 20px;
+    display: flex;
+    margin-left: auto;
+    list-style-type: none;
+}
+
+.nav-items > ul > li {
+    padding: 10px;
+    margin: 10px;
+    color: #282c3f;
+    cursor: pointer;
+}
+
+.nav-items > ul > li:hover {
+    color: #fc8019;
+}
+.login-btn {
+    padding: 0px 18px;
+    font-size: 16px;
+    background-color: #fc8019;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+.login-btn:hover {
+    background-color: #e86f0c;
+}
+
+/* Search and filter */
+.filter {
+    padding: 14px 10px 18px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.search {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+
+.search-box {
+    width: 240px;
+    height: 40px;
+    box-sizing: border-box;
+    padding: 0 12px;
+    font-size: 15px;
+    color: #282c3f;
+    background-color: #ffffff;
+    border: 1px solid #c8c9ce;
+    border-radius: 6px;
+    outline: none;
+}
+
+.search-box:focus {
+    border-color: #fc8019;
+    box-shadow: 0 0 0 3px rgba(252, 128, 25, 0.16);
+}
+
+.search button {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 15px;
+    font-weight: 600;
+    color: #ffffff;
+    background-color: #fc8019;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.search button:hover {
+    background-color: #e86f0c;
+}
+.filter-btn {
+    height: 40px;
+    padding: 0 16px;
+    font-size: 16px;
+    background-color: #fc8019;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+}
+
+.filter-btn:hover {
+    background-color: #e86f0c;
+}
+
+/* Restaurant Container and card */
+.res-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.restaurant-card {
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: 1px solid #e9e9eb;
+    border-radius: 8px;
+}
+
+.restaurant-card:hover {
+    box-shadow: 0 4px 14px rgba(0, 0, 0, 0.12);
+    cursor: pointer;
+}
+
+.restaurant-logo {
+    width: 100%;
+    height: 150px;
+    object-fit: cover;
+    border-radius: 6px;
+}
+
+.restaurant-card h3 {
+    margin: 8px 0 5px;
+    font-size: 16px;
+    color: #282c3f;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.restaurant-card h4 {
+    margin: 3px 0;
+    font-size: 13px;
+    color: #686b78;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.menu-item-image {
+    width: 140px;
+    height: 110px;
+    object-fit: cover;
+    border-radius: 8px;
+}
+
+/* Shimmer UI */
+
+.shimmer-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.shimmer-card {
+    width: 200px;
+    height: 300px;
+    margin: 20px;
+    padding: 10px;
+    overflow: hidden;
+    display: flex;
+    flex-direction: column;
+    background-color: #f0f0f0;
+    border-radius: 8px;
+}
